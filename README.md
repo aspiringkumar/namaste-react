@@ -1,6 +1,5 @@
 # namaste-react
 react concepts
-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
 
 # what all things parcel do for us 
 - Dev build
