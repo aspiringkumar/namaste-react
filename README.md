@@ -13,3 +13,21 @@ react concepts
 - comprssing 
 - Tree shaking
 - consistency hashing algo
+
+
+ /*
+ Header
+ -logo
+ -nav items
+ -cart
+
+ Body
+ -search bar
+ -restaurant list
+ -restaurant card
+
+ Footer 
+ -copyrights
+ -address
+ -contact info
+ */
