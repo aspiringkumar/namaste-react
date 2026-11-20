@@ -10,19 +10,19 @@ const apiResponse = {
             "id": 2,
             "name": "Restaurant 2",
             "cuisine": "Indian",
-            "rating": 4.0
+            "rating": 3.0
         },
         {
             "id": 3,
             "name": "Restaurant 3",
             "cuisine": "Chinese",
-            "rating": 4.8
+            "rating": 3.8
         },
         {
             "id": 4,
             "name": "Restaurant 4",
             "cuisine": "Mexican",
-            "rating": 4.2
+            "rating": 3.2
         },
         {
             "id": 5,
